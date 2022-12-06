@@ -5,7 +5,7 @@ The raw data for this project is obtainable from the website for Stanford's Netw
 - It's important to note that there are two types of datasets: datasets of small size used for testing analysis (listed in the first table), and datasets of much larger magnitude to test the clustering algorithm's scalability (listed in the second table).
 - This project can be run on either type of dataset, so it's recommended to at least download one "small" dataset and one "large" dataset of your choice using the links from the corresponding tables.
 
-Once the datasets of your choice is downloaded, extract their compressed zip files and place all text files containing the edge pairs between nodes into a newly created folder in the root directory called `data/raw`.
+Once the datasets of your choice is downloaded, extract their compressed zip files and place all text files containing the edge pairs between nodes into a newly created folder in the project's root directory called `data/raw`.
 
 # Running the Project
 
