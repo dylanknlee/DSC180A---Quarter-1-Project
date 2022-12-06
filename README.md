@@ -12,4 +12,4 @@ Once the datasets of your choice is downloaded, extract their compressed zip fil
 ### Executing the project on test data
 
 - To execute the project to run on test data (no raw data needed), in the project root directory, run the command `python run.py test`.
-  - This will run the project code on a small subset of data in similar structure to that of the raw text data, first counting the number of motif occurrences to form a motif adjacency matrix and performing spectral clustering to obtain classified communities of nodes.
+  - This will run the project code on a small subset of data in similar structure to that of the raw text data, first counting the number of motif occurrences to form a motif adjacency matrix and performing spectral clustering to obtain classified communities of nodes. The count of a motif chosen for demonstration, and also the clustering of the test network according the motif counts will be displayed as a printed output.
